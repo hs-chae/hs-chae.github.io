@@ -6,7 +6,7 @@ subtitle: Master's Student, SNU Math
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> </p>
