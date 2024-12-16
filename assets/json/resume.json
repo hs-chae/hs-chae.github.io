@@ -44,7 +44,29 @@
     },
     
   ],
-  "Skills": [
+  "teaching experiences": [
+    {
+      "institution": "Seoul National University",
+      "subject": "Calculus 1",
+      "startDate": "Spring 2023",
+    },
+    {
+      "institution": "Seoul National University",
+      "subject": "Linear Algebra",
+      "startDate": "Fall 2023",
+    },
+    {
+      "institution": "Seoul National University",
+      "subject": "Mathematical Foundations of Deep Neural Networks (English) ",
+      "startDate": "Spring 2024",
+    },
+    {
+      "institution": "Seoul National University",
+      "subject": "Calculus 2 (English)",
+      "startDate": "Fall 2024",
+    },
+  ],
+  "skills": [
     {
       "name": "Programming",
       "keywords": [
