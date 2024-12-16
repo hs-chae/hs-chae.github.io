@@ -19,5 +19,5 @@ social: true # includes social icons at the bottom of the page
 
 I am a master’s student in Mathematics at Seoul National University, advised by Prof. <a href='https://ernestryu.com/'>Ernest K. Ryu</a>.
 
-My interests lie at the intersection of artificial intelligence, logic, and mathematics, focusing on how neural theorem proving, large language models, and formal methods can come together to transform the practice of mathematical research and reasoning.
+I am interested in everything at the intersection of artificial intelligence, logic, and mathematics. Currently I am working on how approaches from neural theorem proving, large language models and multi-modal intelligence can come together to enhance mathematical reasoning.
 
