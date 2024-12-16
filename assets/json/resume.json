@@ -3,6 +3,7 @@
     {
       "name": "Seoul National University",
       "position": "Master",
+      "advisor": "Ernest K. Ryu"
       "summary": "Seoul, South Korea",
     }
   ],
@@ -14,7 +15,7 @@
       "studyType": "Master",
       "startDate": "Mar 2023",
       "endDate": "Current",
-    }.
+    },
     {
       "institution": "Seoul National University",
       "location": "Seoul, South Korea",
