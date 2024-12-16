@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's Student, SNU Math
+subtitle: Seoul Naitonal University
 
 profile:
   align: right
