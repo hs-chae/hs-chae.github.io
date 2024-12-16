@@ -26,13 +26,13 @@
     - title: Encryption-Friendly LLM Architecture
       year: 2024
       description:
-      D. Rho, T. Kim, M. Park, J. W. Kim, H. Chae, J. H. Cheon, and E. K. Ryu
+        - D. Rho, T. Kim, M. Park, J. W. Kim, H. Chae, J. H. Cheon, and E. K. Ryu
         - In Submission
         
     - title: Decomposing Complex Visual Comprehension into Atomic Visual Skills for Vision Language Models
       year: 2024
       description:
-        H. Chae, S. Yoon, C. Y. Chun, G. Go, Y. Cho, G. Lee, and E. K. Ryu
+        - H. Chae, S. Yoon, C. Y. Chun, G. Go, Y. Cho, G. Lee, and E. K. Ryu
         - NeurIPS 2024 Workshop MATH-AI 
 
 
